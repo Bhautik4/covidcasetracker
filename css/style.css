@@ -1,0 +1,11 @@
+body{
+    margin-top: 20px;
+    background-color: rgb(209, 197, 197);
+    font-family: 'Roboto Serif', sans-serif;
+}
+.jumbotron{
+    background-color: white;
+}
+.pt-3{
+    font-family: 'Yatra One', cursive;
+}
